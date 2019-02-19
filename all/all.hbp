@@ -1,0 +1,9 @@
+all.prg
+..\ze_wvgtst.prg
+..\ze_wvgtstbutton.prg
+all.rc
+gtwvg.hbc
+-w3
+-es2
+-strip
+-compr
