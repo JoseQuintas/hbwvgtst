@@ -1,0 +1,14 @@
+source/ze_wvgtst.prg
+source/ze_wvgtstbutton.prg
+-hblib
+-o${hb_addons}/josequintas/lib/${hb_plat}/${hb_comp}/${hb_name}
+-hbx=${hb_addons}/josequintas/${hb_name}
+-Iinclude
+-w3
+-es2
+-m
+-n
+-beep
+-q
+gtwvg.hbc
+

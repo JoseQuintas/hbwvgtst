@@ -1,10 +1,7 @@
 rmchart.prg
-..\ze_wvgtst.prg
-..\ze_wvgtstbutton.prg
-ze_rmchartclass.prg
-gtwvg.hbc
+ze_rmchartclass
+-L..
+wvgtst.hbc
 hbct.hbc
 -w3
 -es2
--strip
--compr

@@ -1,5 +1,5 @@
 test.prg
-..\ze_wvgtst.prg
-gtwvg.hbc
+-L..
+wvgtst.hbc
 -w3
 -es2

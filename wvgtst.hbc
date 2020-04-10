@@ -1,0 +1,3 @@
+libs=wvgtst gtwvg.hbc
+libpaths=${hb_addons}/josequintas/lib/${hb_plat}/${hb_comp}
+incpaths=include
